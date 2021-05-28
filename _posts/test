@@ -6,7 +6,7 @@ toc_sticky: true
 toc_label: "페이지 주요 목차" 
 categories: "형성평가"
 --- 
-### 03. 이 달은 며칠까지 있을까? 
+### 01. 이 달은 며칠까지 있을까? 
 ![callenderl](/assets/images/형성평가.png) 
 ~~~c 
 #include <stdio.h> 

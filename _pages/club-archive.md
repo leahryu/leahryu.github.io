@@ -1,6 +1,6 @@
 ---
 title: "동아리별 포스팅"
-permalink: /posts/
-layout: posts
+permalink: /categories/
+layout: categories
 author_profile: true
 ---

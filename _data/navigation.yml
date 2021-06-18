@@ -2,7 +2,7 @@
 main:
   - title: "동아리"
     url: /categories/
-  - title: "SG/ARC"
+  - title: "연도"
     url: /posts/
   - title: "소개"
     url: /about/
